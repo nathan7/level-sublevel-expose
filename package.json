@@ -1,0 +1,21 @@
+{
+  "name": "level-sublevel-expose",
+  "version": "1.0.0",
+  "description": "expose sublevels as db object properties",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/level-sublevel-expose.git"
+  },
+  "keywords": [
+    "sublevel",
+    "leveldb",
+    "levelup",
+    "convenience"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathan7/level-sublevel-expose/issues"
+  }
+}
